@@ -1,7 +1,7 @@
-import java.util.Arraylist;
+import java.util.ArrayList;
  
 class Route{
     Integer id;
-    Arraylist <Double> start;//double es para datos decimales
-    Arraylist <Double> end;
+    ArrayList <Double> start;//double es para datos decimales
+    ArrayList <Double> end;
 }
