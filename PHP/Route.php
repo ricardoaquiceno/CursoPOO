@@ -1,6 +1,7 @@
 <?php
-class Route{
-    $id;
-    $start= array();//double es para datos decimales
-    $end=array();
+class Route {
+    public $id;
+    public $init = array();
+    public $end = array();
 }
+?>
